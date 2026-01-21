@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BBL AutoPlay/BBL AutoPlay.vcxproj" Id="c4831475-0e55-474e-af60-fef9683505ee" />
+</Solution>
